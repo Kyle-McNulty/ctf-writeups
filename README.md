@@ -1,2 +1,4 @@
 # ctf-writeups
-A place for CTF write ups, initially just for HackCenter Enigma
+A home for my CTF write ups, initially just for HackCenter Enigma.
+
+https://hackcenter.com/
