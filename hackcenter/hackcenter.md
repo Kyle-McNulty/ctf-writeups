@@ -1,4 +1,6 @@
-Getting Started!
+## Short Write-up for hackcenter enigma challenges
+
+Getting Started!:  
  Not much to this one. Click on Hints, copy and paste the key.
 
 givekey:  
